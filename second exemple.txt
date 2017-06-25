@@ -1,1 +1,5 @@
 Ceci est le texte initial de mon second fichier
+A partir d'ici je rallonge la version initiale
+du contenu de mon fichier.
+Se faisant, je le modifie.
+
