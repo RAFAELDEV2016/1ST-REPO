@@ -1,1 +1,4 @@
-ligne vide
+Nouveau texte modifié pour mon premier fichier
+Ce texte modifié diffère bien entendu de la version initiale
+C'est assez logique, non ?
+
